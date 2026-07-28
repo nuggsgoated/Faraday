@@ -37,7 +37,7 @@ Have you ever had that itch to open that app after you put your phone down for a
 
 ## Install / Get started
 - Download from: [Google Play](#) coming soon / [App Store](#) coming soon
-- Or install a APK from here on GitHub
+- Or install a APK from here on GitHub Check the releases tag.
 
 Quick start:
 1. Open the app.
