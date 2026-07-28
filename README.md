@@ -31,7 +31,7 @@ Focus-Lock is a lightweight app that helps users reduce distractions by locking 
 ---
 
 ## Why Focus-Lock?
-Have you ever had that itch to open that app after you put your phone down for a bit, well it could be a dopamine dependency your brain is learning to rely on.Focus Lock not only helps you break your habit of opening those addicting apps but can also help you notice when you fail. 
+Have you ever had that itch to open that app after you put your phone down for a bit, well it could be a dopamine dependency your brain is learning to rely on. Focus Lock not only helps you break your habit of opening those addicting apps but can also help you notice when you fail.
 
 ---
 
@@ -48,7 +48,7 @@ Quick start:
 ---
 
 ## Usage
-- Primarly to break the habit of you picking up your phone while you need to be locked in.
+- Primarily to break the habit of you picking up your phone while you need to be locked in.
 - It can also be used anywhere anytime.
 
 ---
