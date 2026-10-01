@@ -1,4 +1,4 @@
-# Focus-Lock
+# Faraday
 
 A simple app to help you break the habit of phone-based dopamine chasing by temporarily locking access to selected apps via a nfc device.
 
@@ -7,7 +7,7 @@ A simple app to help you break the habit of phone-based dopamine chasing by temp
 ## Table of contents
 - [About](#about)
 - [Features](#features)
-- [Why Focus-Lock?](#why-focus-lock)
+- [Why Faraday?](#why-faraday)
 - [Install / Get started](#install--get-started)
 - [Privacy](#privacy)
 - [Contributing](#contributing)
@@ -17,7 +17,7 @@ A simple app to help you break the habit of phone-based dopamine chasing by temp
 ---
 
 ## About
-Focus-Lock is a lightweight app that helps users reduce distractions by locking access to selected apps for a configurable period. Ideal for study sessions, focused work blocks, or digital detoxes.
+Faraday is a lightweight app that helps users reduce distractions by locking access to selected apps for a configurable period. Ideal for study sessions, focused work blocks, or digital detoxes.
 
 ---
 
@@ -30,7 +30,7 @@ Focus-Lock is a lightweight app that helps users reduce distractions by locking 
 
 ---
 
-## Why Focus-Lock?
+## Why Faraday?
 Have you ever had that itch to open that app after you put your phone down for a bit, well it could be a dopamine dependency your brain is learning to rely on. Focus Lock not only helps you break your habit of opening those addicting apps but can also help you notice when you fail.
 
 ---
@@ -54,7 +54,7 @@ Quick start:
 ---
 
 ## Privacy
-Focus-Lock does not store any user data at this time everything is stored locally on the device we plan to keep it that way.
+Faraday does not store any user data on servers, at this time everything is stored locally on the device we plan to keep it that way.
 
 ---
 
@@ -99,7 +99,7 @@ OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE S
 ---
 
 ## contact
-@nuggsgoated ethan.bunch333@gmail.com 
+@nuggsgoated (Github & Discord) ethan.bunch333@gmail.com 
 For bugs or feature requests, please open an issue.
 I should respond within a day or 2 at the most
 The current project managers operate in EST/EDT UTC-5/UTC-4
