@@ -1,6 +1,6 @@
 # Faraday
 
-A simple app to help you break the habit of phone-based dopamine chasing by temporarily locking access to selected apps via a nfc device.
+A simple app to help you break the habit of phone-based dopamine chasing by temporarily locking access to selected apps via an NFC device.
 
 ---
 
@@ -9,57 +9,61 @@ A simple app to help you break the habit of phone-based dopamine chasing by temp
 - [Features](#features)
 - [Why Faraday?](#why-faraday)
 - [Install / Get started](#install--get-started)
+- [Usage](#usage)
 - [Privacy](#privacy)
+- [Development](#development)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
 ## About
-Faraday is a lightweight app that helps users reduce distractions by locking access to selected apps for a configurable period. Ideal for study sessions, focused work blocks, or digital detoxes.
+Faraday is a lightweight app that helps users reduce distractions by locking access to selected apps for a configurable period or location. By linking the app to a physical NFC devices, Faraday creates physical friction between you and your phone's most addicting apps. Ideal for study sessions, focused work blocks, or digital detoxes.
 
 ---
 
 ## Features
-- Select apps to block during focus sessions
-- Customizable session length and schedules
-- Emergency override (optional / configurable)
-- Simple, minimal UI for quick setup
-- Optionally persistent background lock (platform-dependent)
+- NFC Physical Locking: Scan any NFC tag, card, bracelet, or sticker to lock or unlock your phone.
+- Custom Modes: Create custom profiles (e.g. Work, Study, Deep Focus) with individual blocked app lists.
+- Geofenced Zones: Set up location-based zones using OpenStreetMap and address search to automatically activate modes when entering or leaving areas.
+- Lock-In Timer: Set a firm lock-in duration where NFC card unlocks are disabled until the timer expires.
+- Timed Unlock & Scheduled Locking: Automatically re-lock your device after a set unlock window, or schedule automatic locking hours.
+- Statistics & Insights: Track daily blocks, total blocks, streak days, recent block history, and estimated focus time saved.
+- Home Screen Widgets: Quick-glance status widgets in multiple sizes (Standard, Small, Tiny) showing real-time lock status.
+- Emergency Lives: Configurable emergency overrides for urgent situations, with a Hard Mode option to disable them entirely.
 
 ---
 
 ## Why Faraday?
-Have you ever had that itch to open that app after you put your phone down for a bit, well it could be a dopamine dependency your brain is learning to rely on. Focus Lock not only helps you break your habit of opening those addicting apps but can also help you notice when you fail.
+Have you ever had that itch to open that app after you put your phone down for a bit? That could be a dopamine dependency your brain is learning to rely on. Faraday not only helps you break your habit of opening those addicting apps, but also helps you notice when you reach for your phone.
 
 ---
 
 ## Install / Get started
-- Download from: [Google Play](#) coming soon / [App Store](#) coming soon
-- Or install a APK from here on GitHub Check the releases tag.
+- Download from: Google Play coming soon / Apple App Store coming soon
+- Or install an APK from the Releases tag on GitHub.
 
 Quick start:
-1. Open the app.
-2. Tap "Add apps" and choose the apps you want to block.
-3. scan a nfc tag card bracelet sticker etc. to lock.
-4. During the session, blocked apps will be inaccessible until re scanned to unlock. Emergency lives are avaliable for emergencies 
+1. Open the app and complete initial setup.
+2. Register an NFC tag, card, bracelet, or sticker.
+3. Choose the apps you want to block or create custom Modes.
+4. Tap your NFC device to lock.
+5. During the session, blocked apps will be inaccessible until re-scanned to unlock. Emergency lives are available for emergencies.
 
 ---
 
 ## Usage
-- Primarily to break the habit of you picking up your phone while you need to be locked in.
-- It can also be used anywhere anytime.
+- Primarily to break the habit of picking up your phone while you need to be locked in.
+- Can be used anywhere, anytime, or automated using Geofenced Zones.
 
 ---
 
 ## Privacy
-Faraday does not store any user data on servers, at this time everything is stored locally on the device we plan to keep it that way.
+Faraday does not store any user data on servers. At this time everything is stored locally on the device, and we plan to keep it that way.
 
 ---
 
 ## Development
-coming soon
+Active native Android development in Kotlin.
 
 ---
 
